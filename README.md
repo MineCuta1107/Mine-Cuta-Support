@@ -6,7 +6,7 @@ A basic Discord Bots
 [![Website]](https://minecutasupport.glitch.me/)
 
 ### Please Note
-• Please make sure you run the help command as `Mine Cuta Support` requires a certain channel
+•  Please make sure you run the help command as `Mine Cuta Support` requires a certain channel
 
 ### Stats Mine Cuta Support
 <a href="https://stats.uptimerobot.com/8EQRnh65LPr">
