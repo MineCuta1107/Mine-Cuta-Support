@@ -1,0 +1,23 @@
+{
+  "name": "Your Bots Disocrd Name",
+  "version": "1.0.0",
+  "description": "Your Bots Discord",
+  "main": "index.js",
+  "engines": {
+    "node": "10.x",
+    "npm": "6.4.1"
+  },
+  "scripts": {
+    "test": "eslint --ignore-path .gitignore .",
+    "start": "node index.js"
+  },
+  "author": "Mine Cuta",
+  "license": "MIT",
+  "dependencies": {
+   "discord.js": "^11.5.1" 
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-strongloop": "^2.1.0"
+  }
+}
