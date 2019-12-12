@@ -8,5 +8,10 @@ A basic Discord Bots
 ### Please Note
 •  Please make sure you run the help command as `Mine Cuta Support` requires a certain channel
 
+### Stats Mine Cuta Support
+<a href="https://stats.uptimerobot.com/8EQRnh65LPr">
+  <img src="https://cdn.discordapp.com/attachments/575253529510543380/654548194440511498/unknown.png" alt="Status">
+</a>
+
 ### License
 Mine Cuta Support is Licensed under the [MIT License](https://github.com/MineCuta1107/Mine-Cuta-Support/blob/master/LICENSE)
