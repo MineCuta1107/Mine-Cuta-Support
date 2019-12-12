@@ -10,7 +10,7 @@ A basic Discord Bots
 
 ### Stats Mine Cuta Support
 <a href="https://stats.uptimerobot.com/8EQRnh65LPr">
-  <img src="https://cdn.discordapp.com/attachments/575253529510543380/654548194440511498/unknown.png" alt="Status">
+  <img src="https://cdn.discordapp.com/attachments/575253529510543380/654548194440511498/unknown.png" alt="https://stats.uptimerobot.com/8EQRnh65LPr">
 </a>
 
 ### License
