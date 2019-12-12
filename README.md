@@ -13,5 +13,7 @@ A basic Discord Bots
   <img src="https://cdn.discordapp.com/attachments/575253529510543380/654548194440511498/unknown.png" alt="https://stats.uptimerobot.com/8EQRnh65LPr">
 </a>
 
+### Contribute with me ❤
+
 ### License
 Mine Cuta Support is Licensed under the [MIT License](https://github.com/MineCuta1107/Mine-Cuta-Support/blob/master/LICENSE)
